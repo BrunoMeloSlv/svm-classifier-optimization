@@ -28,15 +28,9 @@ Cost Reduction: With accurate classifications, the model helps reduce costs rela
 Business Impact: Using a linear kernel indicates that the problem is relatively simple, allowing for faster and more interpretable decisions, beneficial for stakeholders.
 Sustainability: The regularization parameter C = 20.0 ensures that the model is not overfitted and can generalize well to new data.
 
-├── data/                   Directory containing the dataset
-├── notebooks/              Jupyter notebooks for data exploration and model training
-├── README.md               Project documentation
-└── requirements.txt        Dependencies and packages required to run the project
 
 git clone [https://github.com/yourusername/svm-classifier-optimization.git](https://github.com/BrunoMeloSlv/svm-classifier-optimization/)
 cd svm-classifier-optimization
-
-pip install -r requirements.txt
 
 Conclusion
 The optimized SVM model with a linear kernel provides a good balance between accuracy and execution time. By choosing appropriate parameters, the model offers scalable and efficient performance for both technical and business applications.
