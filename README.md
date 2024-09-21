@@ -33,7 +33,7 @@ Sustainability: The regularization parameter C = 20.0 ensures that the model is 
 ├── README.md              # Project documentation
 └── requirements.txt       # Dependencies and packages required to run the project
 
-git clone https://github.com/yourusername/svm-classifier-optimization.git
+git clone [https://github.com/yourusername/svm-classifier-optimization.git](https://github.com/BrunoMeloSlv/svm-classifier-optimization/)
 cd svm-classifier-optimization
 
 pip install -r requirements.txt
